@@ -1,0 +1,51 @@
+gender,status,fomo_score,financial_score,fashion,viral_food,skincare,hiburan,tagihan,target_viral_food
+Perempuan,Pelajar / Mahasiswa,3.0,3.4,1.0,0.0,0.0,0.0,1.0,0
+Perempuan,Pelajar / Mahasiswa,4.25,4.0,1.0,1.0,1.0,0.0,0.0,1
+Perempuan,Pelajar / Mahasiswa,5.0,1.4,1.0,1.0,1.0,1.0,1.0,1
+Laki-laki,Pelajar / Mahasiswa,1.0,3.8,0.0,0.0,0.0,0.0,1.0,0
+Perempuan,Pelajar / Mahasiswa,2.5,4.0,1.0,0.0,0.0,0.0,0.0,0
+Laki-laki,Pelajar / Mahasiswa,3.0,5.0,1.0,1.0,0.0,0.0,0.0,1
+Perempuan,Karyawan,3.75,3.8,1.0,1.0,0.0,0.0,1.0,1
+Perempuan,Pelajar / Mahasiswa,2.25,5.0,1.0,1.0,1.0,0.0,0.0,1
+Perempuan,Pelajar / Mahasiswa,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0
+Laki-laki,Pelajar / Mahasiswa,1.0,5.0,0.0,0.0,0.0,1.0,0.0,0
+Laki-laki,Pelajar / Mahasiswa,2.25,4.2,0.0,0.0,0.0,0.0,0.0,0
+Perempuan,Pelajar / Mahasiswa,3.75,3.6,1.0,0.0,1.0,1.0,0.0,0
+Perempuan,Pelajar / Mahasiswa,2.75,4.4,1.0,0.0,0.0,0.0,1.0,0
+Perempuan,Pelajar / Mahasiswa,1.0,3.6,1.0,0.0,1.0,0.0,0.0,0
+Laki-laki,Pelajar / Mahasiswa,3.0,4.8,1.0,0.0,0.0,0.0,0.0,0
+Perempuan,Karyawan,2.75,4.6,1.0,1.0,1.0,1.0,1.0,1
+Perempuan,Pelajar / Mahasiswa,2.75,4.6,1.0,0.0,1.0,0.0,0.0,0
+Perempuan,Karyawan,2.25,3.4,1.0,0.0,1.0,0.0,1.0,0
+Perempuan,Lainnya,2.0,2.4,1.0,1.0,1.0,1.0,0.0,1
+Laki-laki,Wirausaha,4.75,5.0,1.0,1.0,1.0,1.0,1.0,1
+Perempuan,Pelajar / Mahasiswa,2.5,5.0,1.0,1.0,0.0,0.0,1.0,1
+Laki-laki,Karyawan,2.0,5.0,1.0,0.0,1.0,0.0,0.0,0
+Perempuan,Karyawan,3.5,3.2,0.0,1.0,1.0,0.0,1.0,1
+Perempuan,Karyawan,3.25,4.4,1.0,0.0,0.0,1.0,0.0,0
+Laki-laki,Pelajar / Mahasiswa,3.0,3.8,1.0,1.0,1.0,1.0,1.0,1
+Perempuan,Pelajar / Mahasiswa,4.25,4.0,1.0,1.0,1.0,1.0,0.0,1
+Perempuan,Karyawan,4.25,4.8,1.0,1.0,1.0,0.0,0.0,1
+Perempuan,Pelajar / Mahasiswa,3.25,3.6,1.0,1.0,1.0,1.0,0.0,1
+Perempuan,Pelajar / Mahasiswa,1.5,3.4,1.0,1.0,1.0,0.0,1.0,1
+Perempuan,Pelajar / Mahasiswa,4.5,4.4,1.0,1.0,1.0,1.0,0.0,1
+Perempuan,Karyawan,2.5,4.0,0.0,1.0,1.0,1.0,1.0,1
+Perempuan,Karyawan,4.25,4.6,1.0,1.0,1.0,1.0,1.0,1
+Perempuan,Pelajar / Mahasiswa,2.25,4.6,1.0,1.0,1.0,0.0,1.0,1
+Perempuan,Pelajar / Mahasiswa,2.5,1.6,0.0,0.0,0.0,0.0,1.0,0
+Laki-laki,Pelajar / Mahasiswa,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1
+Perempuan,Karyawan,4.0,4.6,1.0,1.0,1.0,1.0,1.0,1
+Perempuan,Lainnya,2.75,4.4,1.0,0.0,1.0,1.0,0.0,0
+Laki-laki,Pelajar / Mahasiswa,3.0,4.6,1.0,1.0,0.0,0.0,0.0,1
+Laki-laki,Karyawan,2.75,3.8,1.0,1.0,1.0,1.0,1.0,1
+Perempuan,Karyawan,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1
+Perempuan,Karyawan,4.5,4.0,0.0,0.0,1.0,0.0,0.0,0
+Perempuan,Karyawan,4.5,4.8,1.0,1.0,1.0,1.0,1.0,1
+Laki-laki,Pelajar / Mahasiswa,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1
+Perempuan,Pelajar / Mahasiswa,3.0,4.0,0.0,0.0,1.0,0.0,0.0,0
+Perempuan,Karyawan,2.75,3.0,1.0,1.0,0.0,0.0,1.0,1
+Laki-laki,Karyawan,1.0,4.6,1.0,0.0,0.0,0.0,0.0,0
+Laki-laki,Karyawan,1.5,1.8,1.0,1.0,0.0,1.0,1.0,1
+Perempuan,Karyawan,2.25,5.0,1.0,0.0,1.0,0.0,0.0,0
+Perempuan,Karyawan,5.0,5.0,1.0,0.0,1.0,0.0,0.0,0
+Perempuan,Karyawan,5.0,4.6,1.0,0.0,1.0,0.0,0.0,0
