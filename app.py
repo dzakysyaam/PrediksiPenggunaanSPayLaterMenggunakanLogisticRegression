@@ -710,4 +710,4 @@ elif page == "Project Notes":
     """, unsafe_allow_html=True)
 
 # FOOTER
-st.markdown('<div class="footer-note">Built with Streamlit • SPayLater Behavioral Analytics</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer-note">Syam Developer • SPayLater Behavioral Analytics</div>', unsafe_allow_html=True)
